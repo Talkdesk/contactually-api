@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'roar', '~> 0.12'
 
   s.add_development_dependency 'pry-byebug', '~> 2.0'
-  s.add_development_dependency 'rake', '~> 10'
+  s.add_development_dependency 'rake', '~> 12'
   s.add_development_dependency 'rspec', '~> 3'
 
   s.required_ruby_version = '>= 2.0'
